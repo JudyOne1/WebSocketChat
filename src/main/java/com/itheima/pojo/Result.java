@@ -3,10 +3,7 @@ package com.itheima.pojo;
 import lombok.Data;
 
 /**
- * @version v1.0
- * @ClassName: Result
- * @Description: 用来封装http请求的响应数据
- * @Author: 黑马程序员
+ * 用来封装http请求的响应数据
  */
 @Data
 public class Result {
